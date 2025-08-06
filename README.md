@@ -1,0 +1,1 @@
+# Galer-a-de-la-tecnolog-a
