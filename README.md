@@ -1,1 +1,1 @@
-# Galer-a-de-la-tecnolog-a
+# Equipo 2 - Jovenes a Programar 2025
