@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(185, 214, 242);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.image{
+    border-radius: 20px;
+    height: 400px;
+    align-items: center;
+}
+
+h1 {
+    background-color: rgb(24, 35, 59);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    align-items: center;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+h2 {
+    background-color: rgb(24, 35, 59);
+    color: white
+}
+
+.link-button:hover{
+    background-color: rgb(24, 35, 59);
+    color: white;
+}
+
+.image:hover{
+    transform: scale(1.1);
+}
+
+.link-button {
+    text-decoration: none;
+    color: black;
+    border: 1px solid gray;
+    background-color: #f2f2f2;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 3px #888888;
+}
+
+footer{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
